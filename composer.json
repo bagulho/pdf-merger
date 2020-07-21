@@ -2,7 +2,8 @@
     "name": "bagulho/pdf-merger",
     "description": "PDF File Merger for PHP5",
     "require": {
-        "setasign/fpdi": "2.2.x"
+        "setasign/fpdi": "^2.2",
+        "setasign/fpdf": "^1.8"
     },
     "authors": [
         {
